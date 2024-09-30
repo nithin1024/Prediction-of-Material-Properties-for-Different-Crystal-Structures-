@@ -8,7 +8,7 @@ Creating a well-structured `README.md` file for your project is crucial for guid
 
 ### Repository for Predicting Material Properties Using Random Forest Regression and XGBoost
 
-![License](https://img.shields.io/badge/license-MIT-brightgreen) ![Python](https://img.shields.io/badge/Python-3.8-blue) ![ML](https://img.shields.io/badge/MachineLearning-RandomForest-orange)
+(https://img.shields.io/badge/Python-3.8-blue) ![ML](https://img.shields.io/badge/MachineLearning-RandomForest-orange)
 
 ## Table of Contents
 - [Project Overview](#project-overview)
