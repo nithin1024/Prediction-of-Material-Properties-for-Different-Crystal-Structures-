@@ -140,8 +140,8 @@ To train the Random Forest or XGBoost model on the dataset, follow these steps:
 Sample MAPE for cubic structure:
 ```plaintext
 MAPE: 5.23%
-
-
+```
+---
 ## Contributors
 - **Nithin Kumar**  
   - Email: nithinkumarbandaru2020@gmail.com
