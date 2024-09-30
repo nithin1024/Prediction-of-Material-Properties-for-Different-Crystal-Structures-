@@ -1,6 +1,6 @@
-# Machine Learning Prediction of Material Properties for Different Crystal Structures Using Random Forest Regression and XGBoost
+# Machine Learning Prediction of Material Properties for Different Crystal Structures Using Random Forest Regression 
 
-Creating a well-structured `README.md` file for your project is crucial for guiding users on how to use, understand, and contribute to the repository. Below is a template that you can customize for your project **"Machine Learning Prediction of Material Properties for Different Crystal Structures Using Random Forest Regression and XGBoost"**.
+Creating a well-structured `README.md` file for your project is crucial for guiding users on how to use, understand, and contribute to the repository. Below is a template that you can customize for your project **"Machine Learning Prediction of Material Properties for Different Crystal Structures Using Random Forest Regression "**.
 
 ---
 
